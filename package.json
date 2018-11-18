@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/mokafolio/SketchRNNNode.git"
   },
+  "dependencies": {
+    "numjs": ">=0.16.0",
+    "atob": ">=2.1.2"
+  },
   "keywords": [
     "machine",
     "learning",
