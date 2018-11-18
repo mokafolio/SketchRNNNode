@@ -4,6 +4,6 @@ This is a slightly refactored version of the standalone javascript ![SketchRNN](
 
 For all Sketch-RNN-JS related infos, please read the original readme (in the repository linked above).
 
-##Sample
+## Sample
 
 You can find a sample using node and paperjs ![here](https://github.com/mokafolio/SketchRNNNodePaperExample).
