@@ -1,6 +1,6 @@
 {
   "name": "sketchrnn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SketchRNN node module for vector graphics bases machine learning",
   "main": "sketch_rnn.js",
   "scripts": {
