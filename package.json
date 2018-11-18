@@ -1,0 +1,32 @@
+{
+  "name": "sketchrnn",
+  "version": "0.1.0",
+  "description": "SketchRNN node module for vector graphics bases machine learning",
+  "main": "sketch_rnn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokafolio/SketchRNNNode.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "vector",
+    "graphics",
+    "drawing",
+    "AI",
+    "artificial",
+    "intelligence",
+    "sketch",
+    "rnn",
+    "sketch"
+  ],
+  "author": "Matthias Dorfelt <“hi@mokafolio.de”> (https://www.mokafolio.de)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/mokafolio/SketchRNNNode/issues"
+  },
+  "homepage": "https://github.com/mokafolio/SketchRNNNode#readme"
+}
